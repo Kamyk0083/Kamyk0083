@@ -88,8 +88,11 @@ I like jumping into a new stack when a project needs it.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kamyk0083&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamyk0083&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="top langs" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamyk0083&theme=tokyonight" alt="stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamyk0083&theme=tokyonight&utcOffset=2" alt="productive time" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamyk0083&theme=tokyonight" alt="repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamyk0083&theme=tokyonight" alt="most commit language" />
 
 <br/>
 
