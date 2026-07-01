@@ -1,7 +1,7 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Ksawery%20Kami%C5%84ski&fontColor=e2e8f0&fontSize=46&fontAlignY=38&desc=Student%20%C2%B7%20builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Ksawery&fontColor=e2e8f0&fontSize=46&fontAlignY=38&desc=Student%20%C2%B7%20builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
 <!-- ====== TYPING SUBTITLE ====== -->
 <a href="#">
@@ -124,12 +124,6 @@ I like jumping into a new stack when a project needs it.
 
 <div align="center">
 
-<a href="mailto:kaminski.ksawery@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://www.linkedin.com/in/ksawery-kami%C5%84ski-b08a6b277/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
 <img src="https://img.shields.io/badge/Discord-@__kamyczek__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
 
 </div>
