@@ -1,11 +1,11 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Ksawery%20Kami%C5%84ski&fontColor=e2e8f0&fontSize=46&fontAlignY=38&desc=Student%20%26%20builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Ksawery%20Kami%C5%84ski&fontColor=e2e8f0&fontSize=46&fontAlignY=38&desc=Student%20%C2%B7%20builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
 <!-- ====== TYPING SUBTITLE ====== -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Student+%26+builder;Full-stack%3A+TypeScript+%C2%B7+React+%C2%B7+Next.js;Python+%C2%B7+Kotlin+%C2%B7+a+bit+of+gamedev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=540&lines=Student+%26+builder;Full-stack%3A+TypeScript+%C2%B7+React+%C2%B7+Next.js;Python+%C2%B7+Kotlin+%C2%B7+a+bit+of+gamedev" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
 </div>
 
 <!-- ====== ABOUT ====== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
+## About me
 
 ```ts
 const ksawery = {
@@ -83,6 +83,12 @@ I like jumping into a new stack when a project needs it.
 
 <sub>🔒 = private repo</sub>
 
+<!-- ====== COLLABORATIONS / HACKATHONS ====== -->
+## 🤝 Collaborations & hackathons
+
+- 🏆 **[Hakaton-civil42](https://github.com/Dorszyk11/Hakaton-civil42)** — civic-tech app built with a team at the **[civil42.pl](https://civil42.pl)** hackathon in Lublin (2nd edition). Full-stack: `TypeScript` · `PostgreSQL` · `Docker`.
+- 🧩 Contributor on several team & course repos — full-stack web, algorithms and Python coursework.
+
 <!-- ====== GITHUB STATS ====== -->
 ## 📊 GitHub stats
 
@@ -91,8 +97,10 @@ I like jumping into a new stack when a project needs it.
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamyk0083&theme=tokyonight" alt="stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamyk0083&theme=tokyonight&utcOffset=2" alt="productive time" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamyk0083&theme=tokyonight" alt="repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamyk0083&theme=tokyonight" alt="most commit language" />
+<br/>
+
+<!-- Languages by repo count — colours follow GitHub's palette, names are in the legend -->
+<img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamyk0083&theme=tokyonight" alt="languages by repo (with legend)" />
 
 <br/>
 
@@ -100,9 +108,7 @@ I like jumping into a new stack when a project needs it.
 
 </div>
 
-<!-- ====== SNAKE ====== -->
-## 🐍 Contribution snake
-
+<!-- ====== SNAKE (no heading, by request) ====== -->
 <div align="center">
 
 <picture>
