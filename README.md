@@ -1,7 +1,7 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Ksawery&fontColor=e2e8f0&fontSize=46&fontAlignY=38&desc=Student%20%C2%B7%20builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Full-stack%20dev&fontColor=e2e8f0&fontSize=46&fontAlignY=38&desc=Student%20%C2%B7%20builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 
 <!-- ====== TYPING SUBTITLE ====== -->
 <a href="#">
@@ -18,7 +18,7 @@
 ## About me
 
 ```ts
-const ksawery = {
+const dev = {
   role: "Student & builder",
   learns_by: "shipping real projects, not tutorials",
   main_stack: ["TypeScript", "React", "Next.js", "PostgreSQL"],
